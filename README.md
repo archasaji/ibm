@@ -69,5 +69,5 @@ Development of an alert system for significant data quality issues
 
 9. contributors
 
-10. * Sahanashree Talagade
+. * Sahanashree Talagade
     * Nikita Mirje

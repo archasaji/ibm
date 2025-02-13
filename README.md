@@ -66,3 +66,8 @@ Integration with IoT devices for continuous real-time data quality improvement.
 Expansion of AI models to handle more complex data quality issues.
 
 Development of an alert system for significant data quality issues
+
+9. contributors
+
+10. * Sahanashree Talagade
+    * Nikita Mirje

@@ -69,5 +69,6 @@ Development of an alert system for significant data quality issues
 
 9. contributors
 
-* Sahanashree Talagade   https://github.com/SahanashreeTalagade
-* Nikita Mirje
+* ARCHA SAJI   https://github.com
+* SHREYA B S
+* CHANDANA G B
